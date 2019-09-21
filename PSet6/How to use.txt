@@ -1,0 +1,4 @@
+1. Open up PSET Data to load the table of the values
+2. Test by calling for instance linReg(wine.VarName7, wine.VarName10)
+
+Note: Data I used is VarName7 and VarName10

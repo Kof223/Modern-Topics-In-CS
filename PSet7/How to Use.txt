@@ -1,0 +1,5 @@
+1. Open PSet7.mat to load the data
+2. Call the methods ie. P1(VarName9, VarName5, VarName3)
+First one should always be VarName9 because that's the classification.
+VarName5 and VarName3 are the ones I used, but it should work for any of the others. 
+If any other data are used, the axis titles may be wrong
